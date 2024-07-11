@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Your existing styles go here */
+
+#buyPremiumButton {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+    padding: 10px 20px; /* Padding */
+    border: none; /* No border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Cursor on hover */
+    position: fixed; /* Fixed position */
+    top: 20px; /* 20px from the top */
+    right: 20px; /* 20px from the right */
+}
+
+#buyPremiumButton:hover {
+    background-color: #45a049; /* Darker green on hover */
+}

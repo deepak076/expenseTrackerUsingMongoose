@@ -1,0 +1,33 @@
+.expense-report {
+    width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .table-header {
+    background-color: #eee;
+    font-weight: bold;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    text-align: left;
+    font-size: 14px;
+  }
+  
+  td {
+    font-size: 13px;
+  }
+  
